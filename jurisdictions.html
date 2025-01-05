@@ -2,3 +2,21 @@
 layout: default
 title: "jurisdictions"
 ---
+
+<div class="mt-16 grid grid-cols-2 gap-6 xl:col-span-2 xl:mt-0">
+  <div class="md:grid md:grid-cols-2x md:gap-6">
+    <div class="mt-10 md:mt-0">
+      <h3 class="text-sm/6 font-semibold text-gray-900">States</h3>
+      <div class="md:grid md:grid-cols-2x md:gap-6">
+      <ul role="list" class="mt-6 space-y-4">
+        {% assign states = site.data.tl_2024_us_state | sort:'attributes.NAME' %}
+        {% for item in states %}
+        <li>
+          <a href="{{ site.baseurl }}/jurisdictions/states/{{ item.attributes.STUSPS | downcase }}" class="text-sm/6 text-gray-600 hover:text-gray-900">{{ item.attributes.NAME}}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      </div>
+    </div>
+  </div>
+</div>

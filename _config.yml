@@ -4,6 +4,7 @@ title: "public.bot" # the name of your site, e.g. ACME Corp.
 
 plugins:
   - jekyll-postcss
+  - jekyll-datapage-generator
 
 postcss:
   cache: false
@@ -13,3 +14,9 @@ exclude:
   - package-lock.json
   - postcss.config.js
   - tailwind.config.js
+
+page_gen:
+  - data: 'tl_2024_us_state'
+    template: 'generated_page'
+    name_expr: record["attributes"]['STUSPS']
+    dir: 'jurisdictions/states'
