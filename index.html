@@ -3,6 +3,8 @@ layout: default
 title: "home"
 ---
 
+{% assign services = site.data.services | where: "highlightOnHomepage", true %}
+
 <div class="mt-16 grid grid-cols-2 gap-6 xl:col-span-2 xl:mt-0">
   <div class="md:grid md:grid-cols-2 md:gap-6">
     <div>
@@ -33,21 +35,12 @@ title: "home"
         <li>
           <a href="{{ site.relative_url }}/services" class="text-sm/6 text-gray-600 hover:text-gray-900">All</a>
         </li>
+
+        {% for item in services %}
         <li>
-          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">211</a>
+          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">{{ item.name }}</a>
         </li>
-        <li>
-          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">311</a>
-        </li>
-        <li>
-          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">411</a>
-        </li>
-        <li>
-          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">511</a>
-        </li>
-        <li>
-          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">911</a>
-        </li>
+        {% endfor %}
       </ul>
     </div>
   </div>
