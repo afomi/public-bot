@@ -16,7 +16,11 @@ exclude:
   - tailwind.config.js
 
 page_gen:
-  - data: 'tl_2024_us_state'
+  - data: 'states'
     template: 'generated_page'
     name_expr: record["attributes"]['STUSPS']
     dir: 'jurisdictions/states'
+  - data: 'counties'
+    template: 'generated_page'
+    name_expr: record["attributes"]['state_abbreviation'] + "-" + record["attributes"]['NAMELSAD']
+    dir: 'jurisdictions/counties'

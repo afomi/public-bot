@@ -1,0 +1,1066 @@
+[
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "54",
+      "STATENS": "01779805",
+      "GEOID": "54",
+      "GEOIDFQ": "0400000US54",
+      "STUSPS": "WV",
+      "NAME": "West Virginia",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 62266513826,
+      "AWATER": 488918898,
+      "INTPTLAT": "+38.6472854",
+      "INTPTLON": "-080.6183274"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "12",
+      "STATENS": "00294478",
+      "GEOID": "12",
+      "GEOIDFQ": "0400000US12",
+      "STUSPS": "FL",
+      "NAME": "Florida",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 138965379385,
+      "AWATER": 45968913048,
+      "INTPTLAT": "+28.3989775",
+      "INTPTLON": "-082.5143005"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "3",
+      "STATEFP": "17",
+      "STATENS": "01779784",
+      "GEOID": "17",
+      "GEOIDFQ": "0400000US17",
+      "STUSPS": "IL",
+      "NAME": "Illinois",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 143778206717,
+      "AWATER": 6216848695,
+      "INTPTLAT": "+40.1028754",
+      "INTPTLON": "-089.1526108"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "27",
+      "STATENS": "00662849",
+      "GEOID": "27",
+      "GEOIDFQ": "0400000US27",
+      "STUSPS": "MN",
+      "NAME": "Minnesota",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 206244791203,
+      "AWATER": 18937236061,
+      "INTPTLAT": "+46.3159573",
+      "INTPTLON": "-094.1996043"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "24",
+      "STATENS": "01714934",
+      "GEOID": "24",
+      "GEOIDFQ": "0400000US24",
+      "STUSPS": "MD",
+      "NAME": "Maryland",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 25151223822,
+      "AWATER": 6979843236,
+      "INTPTLAT": "+38.9466584",
+      "INTPTLON": "-076.6744939"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "1",
+      "STATEFP": "44",
+      "STATENS": "01219835",
+      "GEOID": "44",
+      "GEOIDFQ": "0400000US44",
+      "STUSPS": "RI",
+      "NAME": "Rhode Island",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 2677768885,
+      "AWATER": 1323681453,
+      "INTPTLAT": "+41.5964850",
+      "INTPTLON": "-071.5264901"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "16",
+      "STATENS": "01779783",
+      "GEOID": "16",
+      "GEOIDFQ": "0400000US16",
+      "STUSPS": "ID",
+      "NAME": "Idaho",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 214050504522,
+      "AWATER": 2390996667,
+      "INTPTLAT": "+44.3484222",
+      "INTPTLON": "-114.5588538"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "1",
+      "STATEFP": "33",
+      "STATENS": "01779794",
+      "GEOID": "33",
+      "GEOIDFQ": "0400000US33",
+      "STUSPS": "NH",
+      "NAME": "New Hampshire",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 23190211616,
+      "AWATER": 1025871482,
+      "INTPTLAT": "+43.6727945",
+      "INTPTLON": "-071.5841886"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "37",
+      "STATENS": "01027616",
+      "GEOID": "37",
+      "GEOIDFQ": "0400000US37",
+      "STUSPS": "NC",
+      "NAME": "North Carolina",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 125935965771,
+      "AWATER": 13453455061,
+      "INTPTLAT": "+35.5397100",
+      "INTPTLON": "-079.1308636"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "1",
+      "STATEFP": "50",
+      "STATENS": "01779802",
+      "GEOID": "50",
+      "GEOIDFQ": "0400000US50",
+      "STUSPS": "VT",
+      "NAME": "Vermont",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 23872594714,
+      "AWATER": 1030642813,
+      "INTPTLAT": "+44.0589536",
+      "INTPTLON": "-072.6710173"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "1",
+      "STATEFP": "09",
+      "STATENS": "01779780",
+      "GEOID": "09",
+      "GEOIDFQ": "0400000US09",
+      "STUSPS": "CT",
+      "NAME": "Connecticut",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 12541999507,
+      "AWATER": 1816115183,
+      "INTPTLAT": "+41.5798637",
+      "INTPTLON": "-072.7466572"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "10",
+      "STATENS": "01779781",
+      "GEOID": "10",
+      "GEOIDFQ": "0400000US10",
+      "STUSPS": "DE",
+      "NAME": "Delaware",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 5046692239,
+      "AWATER": 1399219008,
+      "INTPTLAT": "+38.9985661",
+      "INTPTLON": "-075.4416440"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "35",
+      "STATENS": "00897535",
+      "GEOID": "35",
+      "GEOIDFQ": "0400000US35",
+      "STUSPS": "NM",
+      "NAME": "New Mexico",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 314198519809,
+      "AWATER": 726531289,
+      "INTPTLAT": "+34.4346843",
+      "INTPTLON": "-106.1316181"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "9",
+      "STATEFP": "06",
+      "STATENS": "01779778",
+      "GEOID": "06",
+      "GEOIDFQ": "0400000US06",
+      "STUSPS": "CA",
+      "NAME": "California",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 403673433805,
+      "AWATER": 20291632828,
+      "INTPTLAT": "+37.1551773",
+      "INTPTLON": "-119.5434183"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "2",
+      "STATEFP": "34",
+      "STATENS": "01779795",
+      "GEOID": "34",
+      "GEOIDFQ": "0400000US34",
+      "STUSPS": "NJ",
+      "NAME": "New Jersey",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 19049229866,
+      "AWATER": 3533374440,
+      "INTPTLAT": "+40.1072744",
+      "INTPTLON": "-074.6652012"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "3",
+      "STATEFP": "55",
+      "STATENS": "01779806",
+      "GEOID": "55",
+      "GEOIDFQ": "0400000US55",
+      "STUSPS": "WI",
+      "NAME": "Wisconsin",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 140294555214,
+      "AWATER": 29341156602,
+      "INTPTLAT": "+44.6309071",
+      "INTPTLON": "-089.7093916"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "9",
+      "STATEFP": "41",
+      "STATENS": "01155107",
+      "GEOID": "41",
+      "GEOIDFQ": "0400000US41",
+      "STUSPS": "OR",
+      "NAME": "Oregon",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 248630421366,
+      "AWATER": 6168761370,
+      "INTPTLAT": "+43.9717125",
+      "INTPTLON": "-120.6229578"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "31",
+      "STATENS": "01779792",
+      "GEOID": "31",
+      "GEOIDFQ": "0400000US31",
+      "STUSPS": "NE",
+      "NAME": "Nebraska",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 198949953125,
+      "AWATER": 1378956981,
+      "INTPTLAT": "+41.5433053",
+      "INTPTLON": "-099.8118646"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "2",
+      "STATEFP": "42",
+      "STATENS": "01779798",
+      "GEOID": "42",
+      "GEOIDFQ": "0400000US42",
+      "STUSPS": "PA",
+      "NAME": "Pennsylvania",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 115881476238,
+      "AWATER": 3397613881,
+      "INTPTLAT": "+40.9046042",
+      "INTPTLON": "-077.8275233"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "9",
+      "STATEFP": "53",
+      "STATENS": "01779804",
+      "GEOID": "53",
+      "GEOIDFQ": "0400000US53",
+      "STUSPS": "WA",
+      "NAME": "Washington",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 172118798160,
+      "AWATER": 12549101417,
+      "INTPTLAT": "+47.4073238",
+      "INTPTLON": "-120.5757999"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "7",
+      "STATEFP": "22",
+      "STATENS": "01629543",
+      "GEOID": "22",
+      "GEOIDFQ": "0400000US22",
+      "STUSPS": "LA",
+      "NAME": "Louisiana",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 111920866908,
+      "AWATER": 23730773357,
+      "INTPTLAT": "+30.7083190",
+      "INTPTLON": "-091.6046207"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "13",
+      "STATENS": "01705317",
+      "GEOID": "13",
+      "GEOIDFQ": "0400000US13",
+      "STUSPS": "GA",
+      "NAME": "Georgia",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 149485762701,
+      "AWATER": 4419221858,
+      "INTPTLAT": "+32.6295789",
+      "INTPTLON": "-083.4235109"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "6",
+      "STATEFP": "01",
+      "STATENS": "01779775",
+      "GEOID": "01",
+      "GEOIDFQ": "0400000US01",
+      "STUSPS": "AL",
+      "NAME": "Alabama",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 131185561946,
+      "AWATER": 4581813708,
+      "INTPTLAT": "+32.7395785",
+      "INTPTLON": "-086.8434469"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "49",
+      "STATENS": "01455989",
+      "GEOID": "49",
+      "GEOIDFQ": "0400000US49",
+      "STUSPS": "UT",
+      "NAME": "Utah",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 213921882299,
+      "AWATER": 5963163952,
+      "INTPTLAT": "+39.3349925",
+      "INTPTLON": "-111.6563326"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "3",
+      "STATEFP": "39",
+      "STATENS": "01085497",
+      "GEOID": "39",
+      "GEOIDFQ": "0400000US39",
+      "STUSPS": "OH",
+      "NAME": "Ohio",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 105824130554,
+      "AWATER": 10274225585,
+      "INTPTLAT": "+40.4149297",
+      "INTPTLON": "-082.7119975"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "7",
+      "STATEFP": "48",
+      "STATENS": "01779801",
+      "GEOID": "48",
+      "GEOIDFQ": "0400000US48",
+      "STUSPS": "TX",
+      "NAME": "Texas",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 676656702022,
+      "AWATER": 19011620342,
+      "INTPTLAT": "+31.4347032",
+      "INTPTLON": "-099.2818238"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "08",
+      "STATENS": "01779779",
+      "GEOID": "08",
+      "GEOIDFQ": "0400000US08",
+      "STUSPS": "CO",
+      "NAME": "Colorado",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 268418973518,
+      "AWATER": 1185541418,
+      "INTPTLAT": "+38.9937669",
+      "INTPTLON": "-105.5087122"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "45",
+      "STATENS": "01779799",
+      "GEOID": "45",
+      "GEOIDFQ": "0400000US45",
+      "STUSPS": "SC",
+      "NAME": "South Carolina",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 77865663223,
+      "AWATER": 5074780894,
+      "INTPTLAT": "+33.8741776",
+      "INTPTLON": "-080.8542639"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "7",
+      "STATEFP": "40",
+      "STATENS": "01102857",
+      "GEOID": "40",
+      "GEOIDFQ": "0400000US40",
+      "STUSPS": "OK",
+      "NAME": "Oklahoma",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 177664629521,
+      "AWATER": 3373250292,
+      "INTPTLAT": "+35.5900815",
+      "INTPTLON": "-097.4867789"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "6",
+      "STATEFP": "47",
+      "STATENS": "01325873",
+      "GEOID": "47",
+      "GEOIDFQ": "0400000US47",
+      "STUSPS": "TN",
+      "NAME": "Tennessee",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 106770544103,
+      "AWATER": 2345359962,
+      "INTPTLAT": "+35.8584600",
+      "INTPTLON": "-086.3496339"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "56",
+      "STATENS": "01779807",
+      "GEOID": "56",
+      "GEOIDFQ": "0400000US56",
+      "STUSPS": "WY",
+      "NAME": "Wyoming",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 251458190512,
+      "AWATER": 1868025485,
+      "INTPTLAT": "+42.9896591",
+      "INTPTLON": "-107.5443922"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "9",
+      "STATEFP": "15",
+      "STATENS": "01779782",
+      "GEOID": "15",
+      "GEOIDFQ": "0400000US15",
+      "STUSPS": "HI",
+      "NAME": "Hawaii",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 16634423918,
+      "AWATER": 11777375352,
+      "INTPTLAT": "+19.8281671",
+      "INTPTLON": "-155.4950421"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "38",
+      "STATENS": "01779797",
+      "GEOID": "38",
+      "GEOIDFQ": "0400000US38",
+      "STUSPS": "ND",
+      "NAME": "North Dakota",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 178694319927,
+      "AWATER": 4414770689,
+      "INTPTLAT": "+47.4421740",
+      "INTPTLON": "-100.4608258"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "6",
+      "STATEFP": "21",
+      "STATENS": "01779786",
+      "GEOID": "21",
+      "GEOIDFQ": "0400000US21",
+      "STUSPS": "KY",
+      "NAME": "Kentucky",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 102266755818,
+      "AWATER": 2384136185,
+      "INTPTLAT": "+37.5336844",
+      "INTPTLON": "-085.2929801"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "9",
+      "DIVISION": "0",
+      "STATEFP": "78",
+      "STATENS": "01802710",
+      "GEOID": "78",
+      "GEOIDFQ": "0400000US78",
+      "STUSPS": "VI",
+      "NAME": "United States Virgin Islands",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 348021909,
+      "AWATER": 1550236187,
+      "INTPTLAT": "+18.3392359",
+      "INTPTLON": "-064.9500433"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "9",
+      "DIVISION": "0",
+      "STATEFP": "69",
+      "STATENS": "01779809",
+      "GEOID": "69",
+      "GEOIDFQ": "0400000US69",
+      "STUSPS": "MP",
+      "NAME": "Commonwealth of the Northern Mariana Islands",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 472292520,
+      "AWATER": 4644252458,
+      "INTPTLAT": "+15.0010865",
+      "INTPTLON": "+145.6181702"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "9",
+      "DIVISION": "0",
+      "STATEFP": "66",
+      "STATENS": "01802705",
+      "GEOID": "66",
+      "GEOIDFQ": "0400000US66",
+      "STUSPS": "GU",
+      "NAME": "Guam",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 543555846,
+      "AWATER": 934337453,
+      "INTPTLAT": "+13.4382885",
+      "INTPTLON": "+144.7729494"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "1",
+      "STATEFP": "23",
+      "STATENS": "01779787",
+      "GEOID": "23",
+      "GEOIDFQ": "0400000US23",
+      "STUSPS": "ME",
+      "NAME": "Maine",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 79888396620,
+      "AWATER": 11745065493,
+      "INTPTLAT": "+45.4092843",
+      "INTPTLON": "-068.6666160"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "2",
+      "STATEFP": "36",
+      "STATENS": "01779796",
+      "GEOID": "36",
+      "GEOIDFQ": "0400000US36",
+      "STUSPS": "NY",
+      "NAME": "New York",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 122049155860,
+      "AWATER": 19256755462,
+      "INTPTLAT": "+42.9133974",
+      "INTPTLON": "-075.5962723"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "32",
+      "STATENS": "01779793",
+      "GEOID": "32",
+      "GEOIDFQ": "0400000US32",
+      "STUSPS": "NV",
+      "NAME": "Nevada",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 284537045743,
+      "AWATER": 1839880833,
+      "INTPTLAT": "+39.3310928",
+      "INTPTLON": "-116.6151469"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "9",
+      "STATEFP": "02",
+      "STATENS": "01785533",
+      "GEOID": "02",
+      "GEOIDFQ": "0400000US02",
+      "STUSPS": "AK",
+      "NAME": "Alaska",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 1479508971743,
+      "AWATER": 244710526650,
+      "INTPTLAT": "+63.3473560",
+      "INTPTLON": "-152.8397334"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "9",
+      "DIVISION": "0",
+      "STATEFP": "60",
+      "STATENS": "01802701",
+      "GEOID": "60",
+      "GEOIDFQ": "0400000US60",
+      "STUSPS": "AS",
+      "NAME": "American Samoa",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 197759067,
+      "AWATER": 1307243751,
+      "INTPTLAT": "-14.2671590",
+      "INTPTLON": "-170.6682674"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "3",
+      "STATEFP": "26",
+      "STATENS": "01779789",
+      "GEOID": "26",
+      "GEOIDFQ": "0400000US26",
+      "STUSPS": "MI",
+      "NAME": "Michigan",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 146621709684,
+      "AWATER": 103864424446,
+      "INTPTLAT": "+44.8441768",
+      "INTPTLON": "-085.6604907"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "7",
+      "STATEFP": "05",
+      "STATENS": "00068085",
+      "GEOID": "05",
+      "GEOIDFQ": "0400000US05",
+      "STUSPS": "AR",
+      "NAME": "Arkansas",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 134658517854,
+      "AWATER": 3122715710,
+      "INTPTLAT": "+34.8955256",
+      "INTPTLON": "-092.4446262"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "6",
+      "STATEFP": "28",
+      "STATENS": "01779790",
+      "GEOID": "28",
+      "GEOIDFQ": "0400000US28",
+      "STUSPS": "MS",
+      "NAME": "Mississippi",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 121534116434,
+      "AWATER": 3914302814,
+      "INTPTLAT": "+32.6864714",
+      "INTPTLON": "-089.6561377"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "29",
+      "STATENS": "01779791",
+      "GEOID": "29",
+      "GEOIDFQ": "0400000US29",
+      "STUSPS": "MO",
+      "NAME": "Missouri",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 178052403953,
+      "AWATER": 2487375487,
+      "INTPTLAT": "+38.3507500",
+      "INTPTLON": "-092.4567826"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "30",
+      "STATENS": "00767982",
+      "GEOID": "30",
+      "GEOIDFQ": "0400000US30",
+      "STUSPS": "MT",
+      "NAME": "Montana",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 376973404582,
+      "AWATER": 3866958878,
+      "INTPTLAT": "+47.0511770",
+      "INTPTLON": "-109.6348174"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "20",
+      "STATENS": "00481813",
+      "GEOID": "20",
+      "GEOIDFQ": "0400000US20",
+      "STUSPS": "KS",
+      "NAME": "Kansas",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 211753821560,
+      "AWATER": 1345663763,
+      "INTPTLAT": "+38.4985464",
+      "INTPTLON": "-098.3834298"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "3",
+      "STATEFP": "18",
+      "STATENS": "00448508",
+      "GEOID": "18",
+      "GEOIDFQ": "0400000US18",
+      "STUSPS": "IN",
+      "NAME": "Indiana",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 92786694938,
+      "AWATER": 1543916881,
+      "INTPTLAT": "+39.9013136",
+      "INTPTLON": "-086.2919129"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "9",
+      "DIVISION": "0",
+      "STATEFP": "72",
+      "STATENS": "01779808",
+      "GEOID": "72",
+      "GEOIDFQ": "0400000US72",
+      "STUSPS": "PR",
+      "NAME": "Puerto Rico",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 8869519701,
+      "AWATER": 4921758891,
+      "INTPTLAT": "+18.2176480",
+      "INTPTLON": "-066.4107992"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "46",
+      "STATENS": "01785534",
+      "GEOID": "46",
+      "GEOIDFQ": "0400000US46",
+      "STUSPS": "SD",
+      "NAME": "South Dakota",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 196341670967,
+      "AWATER": 3387563375,
+      "INTPTLAT": "+44.4467957",
+      "INTPTLON": "-100.2381762"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "1",
+      "DIVISION": "1",
+      "STATEFP": "25",
+      "STATENS": "00606926",
+      "GEOID": "25",
+      "GEOIDFQ": "0400000US25",
+      "STUSPS": "MA",
+      "NAME": "Massachusetts",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 20204400635,
+      "AWATER": 7130649971,
+      "INTPTLAT": "+42.1565196",
+      "INTPTLON": "-071.4895915"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "51",
+      "STATENS": "01779803",
+      "GEOID": "51",
+      "GEOIDFQ": "0400000US51",
+      "STUSPS": "VA",
+      "NAME": "Virginia",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 102256342555,
+      "AWATER": 8529908321,
+      "INTPTLAT": "+37.5222512",
+      "INTPTLON": "-078.6681938"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "3",
+      "DIVISION": "5",
+      "STATEFP": "11",
+      "STATENS": "01702382",
+      "GEOID": "11",
+      "GEOIDFQ": "0400000US11",
+      "STUSPS": "DC",
+      "NAME": "District of Columbia",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 158316181,
+      "AWATER": 18709785,
+      "INTPTLAT": "+38.9042474",
+      "INTPTLON": "-077.0165167"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "2",
+      "DIVISION": "4",
+      "STATEFP": "19",
+      "STATENS": "01779785",
+      "GEOID": "19",
+      "GEOIDFQ": "0400000US19",
+      "STUSPS": "IA",
+      "NAME": "Iowa",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 144660344616,
+      "AWATER": 1085343719,
+      "INTPTLAT": "+42.0700243",
+      "INTPTLON": "-093.4933473"
+    }
+  },
+  {
+    "attributes": {
+      "REGION": "4",
+      "DIVISION": "8",
+      "STATEFP": "04",
+      "STATENS": "01779777",
+      "GEOID": "04",
+      "GEOIDFQ": "0400000US04",
+      "STUSPS": "AZ",
+      "NAME": "Arizona",
+      "LSAD": "00",
+      "MTFCC": "G4000",
+      "FUNCSTAT": "A",
+      "ALAND": 294366118294,
+      "AWATER": 853991999,
+      "INTPTLAT": "+34.2039362",
+      "INTPTLON": "-111.6063449"
+    }
+  }
+]
