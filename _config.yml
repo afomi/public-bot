@@ -17,7 +17,7 @@ exclude:
 
 page_gen:
   - data: 'states'
-    template: 'generated_page'
+    template: 'jursidiction_template'
     name_expr: record["attributes"]['STUSPS']
     dir: 'jurisdictions/states'
   - data: 'counties'

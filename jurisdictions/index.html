@@ -1,44 +1,31 @@
 ---
 layout: default
-title: "home"
+title: "jurisdictions"
 ---
 
-{% assign services = site.data.services | where: "highlightOnHomepage", true %}
+{% assign states = site.data.states | sort:'attributes.NAME' %}
+{% assign counties = site.data.counties | sort:'attributes.NAMELSAD' %}
 
-<div class="mt-12 grid grid-cols-2 gap-6 xl:col-span-2 xl:mt-0">
+<div class="mt-16 grid grid-cols-2 gap-6 xl:col-span-2 xl:mt-0">
   <div class="md:grid md:grid-cols-2 md:gap-6">
     <div>
-      <h3 class="text-sm/6 font-semibold text-gray-900">Structure</h3>
+      <h3 class="text-sm/6 font-semibold text-gray-900">States</h3>
       <ul role="list" class="mt-6 space-y-4">
+        {% for item in states %}
         <li>
-          <a href="{{ site.baseurl }}/jurisdictions/states"
-            class="text-sm/6 text-gray-600 hover:text-gray-900">Jurisdictions</a>
+          <a href="{{ site.baseurl }}/jurisdictions/states/{{ item.attributes.STUSPS | downcase }}"
+            class="text-sm/6 text-gray-600 hover:text-gray-900">{{ item.attributes.NAME }}</a>
         </li>
-        <li>
-          <a href="{{ site.baseurl }}/agencies" class="text-sm/6 text-gray-600 hover:text-gray-900">Agencies</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/bodies" class="text-sm/6 text-gray-600 hover:text-gray-900">Governing
-            Bodies</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/positions" class="text-sm/6 text-gray-600 hover:text-gray-900">Positions</a>
-        </li>
-        <li>
-          <a href="{{ site.baseurl }}/people" class="text-sm/6 text-gray-600 hover:text-gray-900">People</a>
-        </li>
+        {% endfor %}
       </ul>
     </div>
     <div class="mt-10 md:mt-0">
-      <h3 class="text-sm/6 font-semibold text-gray-900">Services</h3>
+      <h3 class="text-sm/6 font-semibold text-gray-900">Counties</h3>
       <ul role="list" class="mt-6 space-y-4">
+        {% for item in counties %}
         <li>
-          <a href="{{ site.relative_url }}/services" class="text-sm/6 text-gray-600 hover:text-gray-900">All</a>
-        </li>
-
-        {% for item in services %}
-        <li>
-          <a href="#" class="text-sm/6 text-gray-600 hover:text-gray-900">{{ item.name }}</a>
+          <a href="{{ site.baseurl }}/jurisdictions/counties/{{ item.attributes.state_abbreviation | downcase }}-{{ item.attributes.NAMELSAD | downcase | slugify }}"
+            class="text-sm/6 text-gray-600 hover:text-gray-900">{{ item.attributes.NAMELSAD }}, {{ item.attributes.state_abbreviation }}</a>
         </li>
         {% endfor %}
       </ul>

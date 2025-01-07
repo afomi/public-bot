@@ -15,7 +15,8 @@
       "ALAND": 62266513826,
       "AWATER": 488918898,
       "INTPTLAT": "+38.6472854",
-      "INTPTLON": "-080.6183274"
+      "INTPTLON": "-080.6183274",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -34,7 +35,8 @@
       "ALAND": 138965379385,
       "AWATER": 45968913048,
       "INTPTLAT": "+28.3989775",
-      "INTPTLON": "-082.5143005"
+      "INTPTLON": "-082.5143005",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -53,7 +55,8 @@
       "ALAND": 143778206717,
       "AWATER": 6216848695,
       "INTPTLAT": "+40.1028754",
-      "INTPTLON": "-089.1526108"
+      "INTPTLON": "-089.1526108",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -72,7 +75,8 @@
       "ALAND": 206244791203,
       "AWATER": 18937236061,
       "INTPTLAT": "+46.3159573",
-      "INTPTLON": "-094.1996043"
+      "INTPTLON": "-094.1996043",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -91,7 +95,8 @@
       "ALAND": 25151223822,
       "AWATER": 6979843236,
       "INTPTLAT": "+38.9466584",
-      "INTPTLON": "-076.6744939"
+      "INTPTLON": "-076.6744939",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -110,7 +115,8 @@
       "ALAND": 2677768885,
       "AWATER": 1323681453,
       "INTPTLAT": "+41.5964850",
-      "INTPTLON": "-071.5264901"
+      "INTPTLON": "-071.5264901",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -129,7 +135,8 @@
       "ALAND": 214050504522,
       "AWATER": 2390996667,
       "INTPTLAT": "+44.3484222",
-      "INTPTLON": "-114.5588538"
+      "INTPTLON": "-114.5588538",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -148,7 +155,8 @@
       "ALAND": 23190211616,
       "AWATER": 1025871482,
       "INTPTLAT": "+43.6727945",
-      "INTPTLON": "-071.5841886"
+      "INTPTLON": "-071.5841886",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -167,7 +175,8 @@
       "ALAND": 125935965771,
       "AWATER": 13453455061,
       "INTPTLAT": "+35.5397100",
-      "INTPTLON": "-079.1308636"
+      "INTPTLON": "-079.1308636",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -186,7 +195,8 @@
       "ALAND": 23872594714,
       "AWATER": 1030642813,
       "INTPTLAT": "+44.0589536",
-      "INTPTLON": "-072.6710173"
+      "INTPTLON": "-072.6710173",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -205,7 +215,8 @@
       "ALAND": 12541999507,
       "AWATER": 1816115183,
       "INTPTLAT": "+41.5798637",
-      "INTPTLON": "-072.7466572"
+      "INTPTLON": "-072.7466572",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -224,7 +235,8 @@
       "ALAND": 5046692239,
       "AWATER": 1399219008,
       "INTPTLAT": "+38.9985661",
-      "INTPTLON": "-075.4416440"
+      "INTPTLON": "-075.4416440",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -243,7 +255,8 @@
       "ALAND": 314198519809,
       "AWATER": 726531289,
       "INTPTLAT": "+34.4346843",
-      "INTPTLON": "-106.1316181"
+      "INTPTLON": "-106.1316181",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -262,7 +275,8 @@
       "ALAND": 403673433805,
       "AWATER": 20291632828,
       "INTPTLAT": "+37.1551773",
-      "INTPTLON": "-119.5434183"
+      "INTPTLON": "-119.5434183",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -281,7 +295,8 @@
       "ALAND": 19049229866,
       "AWATER": 3533374440,
       "INTPTLAT": "+40.1072744",
-      "INTPTLON": "-074.6652012"
+      "INTPTLON": "-074.6652012",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -300,7 +315,8 @@
       "ALAND": 140294555214,
       "AWATER": 29341156602,
       "INTPTLAT": "+44.6309071",
-      "INTPTLON": "-089.7093916"
+      "INTPTLON": "-089.7093916",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -319,7 +335,8 @@
       "ALAND": 248630421366,
       "AWATER": 6168761370,
       "INTPTLAT": "+43.9717125",
-      "INTPTLON": "-120.6229578"
+      "INTPTLON": "-120.6229578",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -338,7 +355,8 @@
       "ALAND": 198949953125,
       "AWATER": 1378956981,
       "INTPTLAT": "+41.5433053",
-      "INTPTLON": "-099.8118646"
+      "INTPTLON": "-099.8118646",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -357,7 +375,8 @@
       "ALAND": 115881476238,
       "AWATER": 3397613881,
       "INTPTLAT": "+40.9046042",
-      "INTPTLON": "-077.8275233"
+      "INTPTLON": "-077.8275233",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -376,7 +395,8 @@
       "ALAND": 172118798160,
       "AWATER": 12549101417,
       "INTPTLAT": "+47.4073238",
-      "INTPTLON": "-120.5757999"
+      "INTPTLON": "-120.5757999",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -395,7 +415,8 @@
       "ALAND": 111920866908,
       "AWATER": 23730773357,
       "INTPTLAT": "+30.7083190",
-      "INTPTLON": "-091.6046207"
+      "INTPTLON": "-091.6046207",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -414,7 +435,8 @@
       "ALAND": 149485762701,
       "AWATER": 4419221858,
       "INTPTLAT": "+32.6295789",
-      "INTPTLON": "-083.4235109"
+      "INTPTLON": "-083.4235109",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -433,7 +455,8 @@
       "ALAND": 131185561946,
       "AWATER": 4581813708,
       "INTPTLAT": "+32.7395785",
-      "INTPTLON": "-086.8434469"
+      "INTPTLON": "-086.8434469",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -452,7 +475,8 @@
       "ALAND": 213921882299,
       "AWATER": 5963163952,
       "INTPTLAT": "+39.3349925",
-      "INTPTLON": "-111.6563326"
+      "INTPTLON": "-111.6563326",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -471,7 +495,8 @@
       "ALAND": 105824130554,
       "AWATER": 10274225585,
       "INTPTLAT": "+40.4149297",
-      "INTPTLON": "-082.7119975"
+      "INTPTLON": "-082.7119975",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -490,7 +515,8 @@
       "ALAND": 676656702022,
       "AWATER": 19011620342,
       "INTPTLAT": "+31.4347032",
-      "INTPTLON": "-099.2818238"
+      "INTPTLON": "-099.2818238",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -509,7 +535,8 @@
       "ALAND": 268418973518,
       "AWATER": 1185541418,
       "INTPTLAT": "+38.9937669",
-      "INTPTLON": "-105.5087122"
+      "INTPTLON": "-105.5087122",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -528,7 +555,8 @@
       "ALAND": 77865663223,
       "AWATER": 5074780894,
       "INTPTLAT": "+33.8741776",
-      "INTPTLON": "-080.8542639"
+      "INTPTLON": "-080.8542639",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -547,7 +575,8 @@
       "ALAND": 177664629521,
       "AWATER": 3373250292,
       "INTPTLAT": "+35.5900815",
-      "INTPTLON": "-097.4867789"
+      "INTPTLON": "-097.4867789",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -566,7 +595,8 @@
       "ALAND": 106770544103,
       "AWATER": 2345359962,
       "INTPTLAT": "+35.8584600",
-      "INTPTLON": "-086.3496339"
+      "INTPTLON": "-086.3496339",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -585,7 +615,8 @@
       "ALAND": 251458190512,
       "AWATER": 1868025485,
       "INTPTLAT": "+42.9896591",
-      "INTPTLON": "-107.5443922"
+      "INTPTLON": "-107.5443922",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -604,7 +635,8 @@
       "ALAND": 16634423918,
       "AWATER": 11777375352,
       "INTPTLAT": "+19.8281671",
-      "INTPTLON": "-155.4950421"
+      "INTPTLON": "-155.4950421",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -623,7 +655,8 @@
       "ALAND": 178694319927,
       "AWATER": 4414770689,
       "INTPTLAT": "+47.4421740",
-      "INTPTLON": "-100.4608258"
+      "INTPTLON": "-100.4608258",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -642,7 +675,8 @@
       "ALAND": 102266755818,
       "AWATER": 2384136185,
       "INTPTLAT": "+37.5336844",
-      "INTPTLON": "-085.2929801"
+      "INTPTLON": "-085.2929801",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -661,7 +695,8 @@
       "ALAND": 348021909,
       "AWATER": 1550236187,
       "INTPTLAT": "+18.3392359",
-      "INTPTLON": "-064.9500433"
+      "INTPTLON": "-064.9500433",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -680,7 +715,8 @@
       "ALAND": 472292520,
       "AWATER": 4644252458,
       "INTPTLAT": "+15.0010865",
-      "INTPTLON": "+145.6181702"
+      "INTPTLON": "+145.6181702",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -699,7 +735,8 @@
       "ALAND": 543555846,
       "AWATER": 934337453,
       "INTPTLAT": "+13.4382885",
-      "INTPTLON": "+144.7729494"
+      "INTPTLON": "+144.7729494",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -718,7 +755,8 @@
       "ALAND": 79888396620,
       "AWATER": 11745065493,
       "INTPTLAT": "+45.4092843",
-      "INTPTLON": "-068.6666160"
+      "INTPTLON": "-068.6666160",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -737,7 +775,8 @@
       "ALAND": 122049155860,
       "AWATER": 19256755462,
       "INTPTLAT": "+42.9133974",
-      "INTPTLON": "-075.5962723"
+      "INTPTLON": "-075.5962723",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -756,7 +795,8 @@
       "ALAND": 284537045743,
       "AWATER": 1839880833,
       "INTPTLAT": "+39.3310928",
-      "INTPTLON": "-116.6151469"
+      "INTPTLON": "-116.6151469",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -775,7 +815,8 @@
       "ALAND": 1479508971743,
       "AWATER": 244710526650,
       "INTPTLAT": "+63.3473560",
-      "INTPTLON": "-152.8397334"
+      "INTPTLON": "-152.8397334",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -794,7 +835,8 @@
       "ALAND": 197759067,
       "AWATER": 1307243751,
       "INTPTLAT": "-14.2671590",
-      "INTPTLON": "-170.6682674"
+      "INTPTLON": "-170.6682674",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -813,7 +855,8 @@
       "ALAND": 146621709684,
       "AWATER": 103864424446,
       "INTPTLAT": "+44.8441768",
-      "INTPTLON": "-085.6604907"
+      "INTPTLON": "-085.6604907",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -832,7 +875,8 @@
       "ALAND": 134658517854,
       "AWATER": 3122715710,
       "INTPTLAT": "+34.8955256",
-      "INTPTLON": "-092.4446262"
+      "INTPTLON": "-092.4446262",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -851,7 +895,8 @@
       "ALAND": 121534116434,
       "AWATER": 3914302814,
       "INTPTLAT": "+32.6864714",
-      "INTPTLON": "-089.6561377"
+      "INTPTLON": "-089.6561377",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -870,7 +915,8 @@
       "ALAND": 178052403953,
       "AWATER": 2487375487,
       "INTPTLAT": "+38.3507500",
-      "INTPTLON": "-092.4567826"
+      "INTPTLON": "-092.4567826",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -889,7 +935,8 @@
       "ALAND": 376973404582,
       "AWATER": 3866958878,
       "INTPTLAT": "+47.0511770",
-      "INTPTLON": "-109.6348174"
+      "INTPTLON": "-109.6348174",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -908,7 +955,8 @@
       "ALAND": 211753821560,
       "AWATER": 1345663763,
       "INTPTLAT": "+38.4985464",
-      "INTPTLON": "-098.3834298"
+      "INTPTLON": "-098.3834298",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -927,7 +975,8 @@
       "ALAND": 92786694938,
       "AWATER": 1543916881,
       "INTPTLAT": "+39.9013136",
-      "INTPTLON": "-086.2919129"
+      "INTPTLON": "-086.2919129",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -946,7 +995,8 @@
       "ALAND": 8869519701,
       "AWATER": 4921758891,
       "INTPTLAT": "+18.2176480",
-      "INTPTLON": "-066.4107992"
+      "INTPTLON": "-066.4107992",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -965,7 +1015,8 @@
       "ALAND": 196341670967,
       "AWATER": 3387563375,
       "INTPTLAT": "+44.4467957",
-      "INTPTLON": "-100.2381762"
+      "INTPTLON": "-100.2381762",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -984,7 +1035,8 @@
       "ALAND": 20204400635,
       "AWATER": 7130649971,
       "INTPTLAT": "+42.1565196",
-      "INTPTLON": "-071.4895915"
+      "INTPTLON": "-071.4895915",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -1003,7 +1055,8 @@
       "ALAND": 102256342555,
       "AWATER": 8529908321,
       "INTPTLAT": "+37.5222512",
-      "INTPTLON": "-078.6681938"
+      "INTPTLON": "-078.6681938",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -1022,7 +1075,8 @@
       "ALAND": 158316181,
       "AWATER": 18709785,
       "INTPTLAT": "+38.9042474",
-      "INTPTLON": "-077.0165167"
+      "INTPTLON": "-077.0165167",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -1041,7 +1095,8 @@
       "ALAND": 144660344616,
       "AWATER": 1085343719,
       "INTPTLAT": "+42.0700243",
-      "INTPTLON": "-093.4933473"
+      "INTPTLON": "-093.4933473",
+      "data_source": "tl_2024_us_state.shp"
     }
   },
   {
@@ -1060,7 +1115,8 @@
       "ALAND": 294366118294,
       "AWATER": 853991999,
       "INTPTLAT": "+34.2039362",
-      "INTPTLON": "-111.6063449"
+      "INTPTLON": "-111.6063449",
+      "data_source": "tl_2024_us_state.shp"
     }
   }
 ]
